@@ -15,7 +15,7 @@
     <ManifestCertificateThumbprint>6C00507B8F5C91C009F6CC0C7DA4789A83FF49B6</ManifestCertificateThumbprint>
     <ManifestKeyFile>EquipmentMS_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>

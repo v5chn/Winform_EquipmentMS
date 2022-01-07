@@ -43,11 +43,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.BARCODELib.dll" size="7168">
       <assemblyIdentity name="AxInterop.BARCODELib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -60,26 +55,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EquipmentMS.exe" size="491008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EquipmentMS.exe" size="489472">
       <assemblyIdentity name="EquipmentMS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>iqAcB8pG9Cw/kEFzuqXPIvKSTDo=</dsig:DigestValue>
+        <dsig:DigestValue>ZD5E9Jg85MRH84Or81P382tqyn4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CHT\EquipmentMS.resources.dll" size="81920">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CHT\EquipmentMS.resources.dll" size="68608">
       <assemblyIdentity name="EquipmentMS.resources" version="1.0.0.0" language="zh-CHT" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>L2qb+N62mFRLUdL2gofYlsLD/dY=</dsig:DigestValue>
+        <dsig:DigestValue>W3CT81SgkY7hnshyjT15RDwbCNY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
